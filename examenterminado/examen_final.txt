@@ -1,0 +1,4 @@
+
+codigo: 1 | nombre: luis | curso: matematica | promedio: 15.0nota115 | nota2: 15 | nota3: 15 | nota415
+codigo: 1 | nombre: Alexander | curso: matematica | promedio: 15.75 | nota114 | nota2: 15 | nota3: 16 | nota4: 18
+codigo: 1 | nombre: Luis | curso: matematica | promedio: 15.75 | nota1: 14 | nota2: 16 | nota3: 18 | nota4: 15
